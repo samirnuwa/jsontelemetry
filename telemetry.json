@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "cocoapod",
+      "name": "Cocoapods",
+      "description": "CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.",
+      "homepage": "https://cocoapods.org/",
+      "image": "https://pbs.twimg.com/profile_images/378800000632309165/e1cbdef9d4b11484049a033886578e54_400x400.png",
+      "locations": [
+        "~/Library/Caches/CocoaPods"
+      ]
+    },
+    {
+      "id": "carthage",
+      "name": "Carthage",
+      "description": "A simple, decentralized dependency manager for Cocoa",
+      "homepage": "https://github.com/Carthage/Carthage",
+      "locations": [
+        "~/Library/Caches/org.carthage.CarthageKit"
+      ]
+    },
+    {
+      "id": "homebrew",
+      "name": "Homebrew",
+      "description": "The missing package manager for macOS",
+      "homepage": "https://brew.sh/",
+      "image": "https://brew.sh/img/homebrew-256x256.png",
+      "locations": [
+        "~/Library/Caches/Homebrew",
+        "~/Library/Logs/Homebrew/"
+      ]
+    },
+    {
+      "id": "npm",
+      "name": "npm",
+      "description": "npm is the package manager for JavaScript and the world’s largest software registry.",
+      "homepage": "https://www.npmjs.com/",
+      "image": "https://pbs.twimg.com/profile_images/765333670366355456/q5ACQ8i3_400x400.jpg",
+      "locations": [
+        "~/.npm"
+      ]
+    },
+    {
+      "id": "xcode-derived",
+      "name": "Xcode Derived Data",
+      "description": "Place where Xcode stores all kinds of intermediate build results, generated indexes etc",
+      "image": "https://pbs.twimg.com/profile_images/925502788032798721/qbxHDQKt_400x400.jpg",
+      "locations": [
+        "~/Library/Developer/Xcode/DerivedData"
+      ]
+    },
+    {
+      "id": "yarn",
+      "name": "Yarn",
+      "homepage": "https://yarnpkg.com/lang/en/",
+      "image": "https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png",
+      "description": "Fast, Reliable, and Secure dependency management.",
+      "locations": [
+        "~/Library/Caches/Yarn"
+      ]
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "description": "A powerful, lightweight code editor from Microsoft.",
+      "homepage": "https://code.visualstudio.com/",
+      "image": "https://code.visualstudio.com/assets/favicon.ico",
+      "locations": [
+        "~/Library/Application Support/Code/Cache"
+      ]
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "description": "A collaboration hub for work, no matter what work you do.",
+      "homepage": "https://slack.com/",
+      "image": "https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png",
+      "locations": [
+        "~/Library/Application Support/Slack/Cache"
+      ]
+    },
+    {
+      "id": "chrome",
+      "name": "Google Chrome",
+      "description": "One fast, simple, and secure browser for all your devices.",
+      "homepage": "https://www.google.com/chrome/",
+      "image": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+      "locations": [
+        "~/Library/Caches/Google/Chrome",
+        "~/Library/Application Support/Google/Chrome",
+        "~/Library/Caches/com.google.Chrome"
+      ]
+    },
+    {
+      "id": "firefox",
+      "name": "Mozilla Firefox",
+      "description": "Firefox is a free and open-source web browser.",
+      "homepage": "https://www.mozilla.org",
+      "image": "https://www.mozilla.org/media/img/logos/firefox/logo-quantum-wordmark-white-high-res.3ccf0070280e.png",
+      "locations": [
+        "~/Library/Caches/Firefox",
+        "~/Library/Caches/org.mozilla.firefox"
+      ]
+    }
+  ]
+}
