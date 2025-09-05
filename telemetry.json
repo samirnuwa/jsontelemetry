@@ -93,6 +93,33 @@
       ]
     },
     {
+  "version": 1,
+  "items": [
+    {
+      "id": "metatrader4",
+      "name": "MetaTrader 4",
+      "description": "MetaTrader 4 is a popular electronic trading platform for forex, futures, and CFD markets.",
+      "homepage": "https://www.metatrader4.com/",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MetaTrader_4_Logo.svg/1200px-MetaTrader_4_Logo.svg.png",
+      "locations": [
+        "~/AppData/Roaming/MetaQuotes/Terminal",
+        "~/Library/Application Support/MetaTrader 4"
+      ]
+    },
+    {
+      "id": "screenpal",
+      "name": "ScreenPal",
+      "description": "ScreenPal (formerly Screencast-O-Matic) is a screen recording and video editing software.",
+      "homepage": "https://screenpal.com/",
+      "image": "https://screenpal.com/images/screenpal-icon.png",
+      "locations": [
+        "~/AppData/Local/Screencast-O-Matic",
+        "~/Library/Application Support/Screencast-O-Matic"
+      ]
+    }
+  ]
+}
+    {
       "id": "firefox",
       "name": "Mozilla Firefox",
       "description": "Firefox is a free and open-source web browser.",
