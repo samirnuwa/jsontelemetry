@@ -113,9 +113,7 @@
         "~/AppData/Local/Screencast-O-Matic",
         "~/Library/Application Support/Screencast-O-Matic"
       ]
-    }
-  ]
-}
+    },
     {
       "id": "firefox",
       "name": "Mozilla Firefox",
