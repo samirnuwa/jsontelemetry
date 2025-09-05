@@ -12,6 +12,17 @@
       ]
     },
     {
+  "id": "animoji",
+  "name": "Animoji",
+  "description": "Animoji are 3D animated emojis that mimic your facial expressions and voice using the front camera and facial recognition technology, popularized by Apple on iPhone X and later devices.",
+  "homepage": "https://www.apple.com/ios/imessage/",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Animoji_icon.svg/1024px-Animoji_icon.svg.png",
+  "locations": [
+    "~/Library/Messages/Animoji",
+    "~/Library/Application Support/Animoji"
+    ]
+   },
+    {
       "id": "carthage",
       "name": "Carthage",
       "description": "A simple, decentralized dependency manager for Cocoa",
